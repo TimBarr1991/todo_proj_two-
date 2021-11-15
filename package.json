@@ -1,0 +1,17 @@
+{
+  "name": "todo_app_proj_two",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Timothy Barr",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-layout": "^0.1.0",
+    "nodemon": "^2.0.15",
+    "postgresql": "^0.0.1"
+  }
+}
